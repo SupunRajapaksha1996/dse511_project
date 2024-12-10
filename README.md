@@ -21,4 +21,5 @@
 # agent
 # playerCategory
 
-# 
+
+# This project analyses players' and teams' ratings, average combat score (ACS), kill/death ratios, agent usage, head shot percentages, clutch success percentages between Americas and EMEA regions to see which region has performed better during the VCT season.
