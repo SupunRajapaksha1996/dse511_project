@@ -1,6 +1,6 @@
 # dse511_project
 # This project contains an analysis of Player performance metrics and other factors of the Valorant Champions Tour 2024; an official tournament circuit of the competitive first-person shooter game Valorant by Riot Games, with a prize pool of around $4.5 million.
-# The data set from obtained from the following website.
+# The data set from obtained from the following website, as a .json file.
 # https://www.kaggle.com/datasets/sauurabhkr/valorant-champions-tour-2024
 # This dataset provides detailed player statistics for the VALORANT Champions Tour (VCT) 2024, covering three key competitive tiers (playerCategory): VCT International, VCT Challengers, and VCT Game Changers. It includes data for professional players across different regions, allowing for deep analysis of player performance for each competitive level.
 # This dataset contains the following fields. 
